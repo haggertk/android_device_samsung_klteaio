@@ -17,7 +17,7 @@
 
 set -e
 
-export DEVICE=klte
+export DEVICE=klteaio
 export DEVICE_COMMON=klte-common
 export VENDOR=samsung
 
