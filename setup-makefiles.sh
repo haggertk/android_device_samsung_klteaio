@@ -21,4 +21,6 @@ export DEVICE=klteaio
 export DEVICE_COMMON=klte-common
 export VENDOR=samsung
 
+export VARIANT_COPYRIGHT_YEAR=2020
+
 ./../$DEVICE_COMMON/setup-makefiles.sh $@
